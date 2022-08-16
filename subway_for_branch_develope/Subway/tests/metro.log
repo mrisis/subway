@@ -1,0 +1,954 @@
+2022-08-07 14:06:55,936 -	 TRIP - INFO	 - Bank account with 126778 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:06:55,938 -	 TRIP - INFO	 - Bank account with 475365 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:06:55,938 -	 TRIP - ERROR	 - AgeError: your age must be a number
+2022-08-07 14:06:55,938 -	 TRIP - ERROR	 - AgeError: your age can't be zero or negative
+2022-08-07 14:06:55,938 -	 TRIP - INFO	 - Bank account with 117621 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:06:55,938 -	 TRIP - INFO	 - Bank account with 137800 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:06:55,938 -	 TRIP - ERROR	 - BalanceError: balance must be int or float
+2022-08-07 14:06:55,938 -	 TRIP - ERROR	 - BalanceError: minimum balance is 100
+2022-08-07 14:06:55,946 -	 TRIP - INFO	 - Bank account with 844630 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:06:55,946 -	 TRIP - INFO	 - Bank account with 106526 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:06:55,946 -	 TRIP - INFO	 - Bank account with 191445 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:06:55,946 -	 TRIP - INFO	 - Bank account with 958665 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:06:55,946 -	 TRIP - ERROR	 - DepositError: money must be int or float number
+2022-08-07 14:06:55,946 -	 TRIP - ERROR	 - DepositError: minimum money to deposit is 100
+2022-08-07 14:06:55,946 -	 TRIP - INFO	 - 1000 deposited to 191445 account with balance: 11000
+2022-08-07 14:06:55,951 -	 TRIP - INFO	 - Bank account with 825120 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:06:55,951 -	 TRIP - INFO	 - Bank account with 182412 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:06:55,951 -	 TRIP - ERROR	 - FullNameError: your name must be string of characters
+2022-08-07 14:06:55,951 -	 TRIP - ERROR	 - FullNameError: name must be at least 3 characters
+2022-08-07 14:06:55,951 -	 TRIP - ERROR	 - FullNameError: name must be alphabetic
+2022-08-07 14:06:55,951 -	 TRIP - INFO	 - Bank account with 899876 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:06:55,962 -	 TRIP - INFO	 - Bank account with 739765 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:06:55,962 -	 TRIP - INFO	 - Bank account with 814124 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:06:55,962 -	 TRIP - INFO	 - Bank account with 228022 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:06:55,962 -	 TRIP - ERROR	 - LoginError: Account number is an int number
+2022-08-07 14:06:55,962 -	 TRIP - ERROR	 - LoginError: Account number is an int number
+2022-08-07 14:06:55,962 -	 TRIP - ERROR	 - LoginError: Wrong Account Number
+2022-08-07 14:06:55,962 -	 TRIP - INFO	 - Bank account with 598654 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:06:55,966 -	 TRIP - INFO	 - Bank account with 343314 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:06:55,966 -	 TRIP - ERROR	 - NationalCodeError: you should enter your national code as a number
+2022-08-07 14:06:55,966 -	 TRIP - ERROR	 - NationalCodeError: your national code must be 10 digits
+2022-08-07 14:06:55,966 -	 TRIP - INFO	 - Bank account with 427389 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:06:55,978 -	 TRIP - INFO	 - Bank account with 535146 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:06:55,978 -	 TRIP - INFO	 - Bank account with 404285 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - Bank account with 985910 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:06:55,981 -	 TRIP - ERROR	 - WithDrawError: money must be int or float number
+2022-08-07 14:06:55,981 -	 TRIP - ERROR	 - WithDrawError: minimum money to withdraw is 10
+2022-08-07 14:06:55,981 -	 TRIP - ERROR	 - WithDrawError: you don't have enough money
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - 1000 Withdraw from 404285 account your current balance: 9000
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:06:55,981 -	 TRIP - ERROR	 - ChargeError: charge can't be negative
+2022-08-07 14:06:55,981 -	 TRIP - ERROR	 - ChargeError: charge must an int number
+2022-08-07 14:06:55,981 -	 TRIP - ERROR	 - ChargeError: charge can't be negative
+2022-08-07 14:06:55,981 -	 TRIP - ERROR	 - ChargeError: charge must an int number
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - credit card's charge is 2000
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - credit card has charged 1000
+2022-08-07 14:06:55,981 -	 TRIP - ERROR	 - ChargeError: you should enter a float or an int number
+2022-08-07 14:06:55,981 -	 TRIP - ERROR	 - ChargeError: minimum price for charging your card is 10
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:06:55,981 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:06:55,981 -	 TRIP - ERROR	 - DateError: your card has expired
+2022-08-07 14:06:55,994 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:06:55,994 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:06:55,994 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:06:55,994 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:06:55,994 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:06:55,994 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:06:55,994 -	 TRIP - ERROR	 - AttributeError:expiration_date attribute doesn't exist
+2022-08-07 14:06:55,994 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:06:55,994 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:06:55,994 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:06:55,996 -	 TRIP - ERROR	 - TypeError: name of the card must be a string
+2022-08-07 14:06:55,996 -	 TRIP - ERROR	 - CardError: Invalid card. card only can be one of ('single_trip', 'credit', 'term')
+2022-08-07 14:06:55,996 -	 TRIP - ERROR	 - CardError: Invalid card. card only can be one of ('single_trip', 'credit', 'term')
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:06:55,996 -	 TRIP - ERROR	 - ChargeError: this card has been used before
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - term card's charge is 310
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - you paid 10 for the trip, by term card
+2022-08-07 14:06:55,996 -	 TRIP - ERROR	 - ChargeError: you don't have enough charge to pay cost of the trip, sorry
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - credit card's charge is 990
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - you paid 10 for the trip, by credit card
+2022-08-07 14:06:55,996 -	 TRIP - ERROR	 - ChargeError: you don't have enough charge to pay cost of the trip, sorry
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - Bank account with 248203 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - User Mehdi mirzaie with 177 and bank account: Bank account with 248203 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - 10 Withdraw from 248203 account your current balance: 99990
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - 10 Withdraw from 248203 account your current balance: 99980
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:06:55,996 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 177 payed the cost of the origin: tehran|destination: kermanshah trip with single_trip card
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - origin: tehran|destination: kermanshah trip has done
+2022-08-07 14:06:58,010 -	 TRIP - ERROR	 - TripError: This trip has done before, you can't do take that again
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - Bank account with 312456 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - User Mehdi mirzaie with 124 and bank account: Bank account with 312456 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - 10 Withdraw from 312456 account your current balance: 99990
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - 10 Withdraw from 312456 account your current balance: 99980
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:06:58,010 -	 TRIP - ERROR	 - CostError: Cost of the trip must be an int or a float value
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:06:58,010 -	 TRIP - ERROR	 - CostError: Cost of the trip must be greater than zero
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - Bank account with 37073 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - User Mehdi mirzaie with 309 and bank account: Bank account with 37073 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - 10 Withdraw from 37073 account your current balance: 99990
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - 10 Withdraw from 37073 account your current balance: 99980
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:06:58,010 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 309 payed the cost of the origin: kermanshah|destination: tehran trip with single_trip card
+2022-08-07 14:07:00,017 -	 TRIP - INFO	 - origin: kermanshah|destination: tehran trip has done
+2022-08-07 14:07:00,017 -	 TRIP - INFO	 - Bank account with 719532 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:07:00,017 -	 TRIP - INFO	 - User Mehdi mirzaie with 908 and bank account: Bank account with 719532 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - 10 Withdraw from 719532 account your current balance: 99990
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - 10 Withdraw from 719532 account your current balance: 99980
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:07:00,021 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 908 payed the cost of the origin: kermanshah|destination: rasht trip with single_trip card
+2022-08-07 14:07:02,035 -	 TRIP - INFO	 - origin: kermanshah|destination: rasht trip has done
+2022-08-07 14:07:02,035 -	 TRIP - ERROR	 - CardError: You don't have such card
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - Bank account with 119359 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - User Mehdi mirzaie with 202 and bank account: Bank account with 119359 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:07:02,037 -	 TRIP - ERROR	 - CardError: You can't buy card because it's Invalid
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - 10 Withdraw from 119359 account your current balance: 99990
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - 10 Withdraw from 119359 account your current balance: 99980
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - 10 Withdraw from 119359 account your current balance: 99970
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - term card's charge is 10
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - term card added to Mehdi mirzaie' wallet
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - Bank account with 641769 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - User Mehdi mirzaie with 373 and bank account: Bank account with 641769 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:07:02,037 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:07:02,052 -	 TRIP - INFO	 - Bank account with 149422 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:07:02,052 -	 TRIP - INFO	 - User Mehdi mirzaie with 2 and bank account: Bank account with 149422 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:07:02,052 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:07:02,052 -	 TRIP - INFO	 - Bank account with 407919 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:07:02,052 -	 TRIP - INFO	 - User Mehdi mirzaie with 625 and bank account: Bank account with 407919 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:07:02,056 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:07:02,056 -	 TRIP - ERROR	 - LoginError: ID code is an int number
+2022-08-07 14:08:46,646 -	 TRIP - INFO	 - Bank account with 740635 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:08:46,646 -	 TRIP - INFO	 - Bank account with 377442 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:08:46,646 -	 TRIP - ERROR	 - AgeError: your age must be a number
+2022-08-07 14:08:46,646 -	 TRIP - ERROR	 - AgeError: your age can't be zero or negative
+2022-08-07 14:08:46,646 -	 TRIP - INFO	 - Bank account with 761465 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:08:46,646 -	 TRIP - INFO	 - Bank account with 118932 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:08:46,646 -	 TRIP - ERROR	 - BalanceError: balance must be int or float
+2022-08-07 14:08:46,646 -	 TRIP - ERROR	 - BalanceError: minimum balance is 100
+2022-08-07 14:08:46,657 -	 TRIP - INFO	 - Bank account with 598157 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:08:46,657 -	 TRIP - INFO	 - Bank account with 70526 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:08:46,657 -	 TRIP - INFO	 - Bank account with 284908 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:08:46,657 -	 TRIP - INFO	 - Bank account with 765853 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:08:46,657 -	 TRIP - ERROR	 - DepositError: money must be int or float number
+2022-08-07 14:08:46,657 -	 TRIP - ERROR	 - DepositError: minimum money to deposit is 100
+2022-08-07 14:08:46,657 -	 TRIP - INFO	 - 1000 deposited to 284908 account with balance: 11000
+2022-08-07 14:08:46,657 -	 TRIP - INFO	 - Bank account with 142679 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:08:46,657 -	 TRIP - INFO	 - Bank account with 619154 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:08:46,657 -	 TRIP - ERROR	 - FullNameError: your name must be string of characters
+2022-08-07 14:08:46,657 -	 TRIP - ERROR	 - FullNameError: name must be at least 3 characters
+2022-08-07 14:08:46,657 -	 TRIP - ERROR	 - FullNameError: name must be alphabetic
+2022-08-07 14:08:46,657 -	 TRIP - INFO	 - Bank account with 470551 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:08:46,677 -	 TRIP - INFO	 - Bank account with 308588 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:08:46,679 -	 TRIP - INFO	 - Bank account with 235512 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:08:46,680 -	 TRIP - INFO	 - Bank account with 191873 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:08:46,680 -	 TRIP - ERROR	 - LoginError: Account number is an int number
+2022-08-07 14:08:46,680 -	 TRIP - ERROR	 - LoginError: Account number is an int number
+2022-08-07 14:08:46,680 -	 TRIP - ERROR	 - LoginError: Wrong Account Number
+2022-08-07 14:08:46,680 -	 TRIP - INFO	 - Bank account with 497034 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:08:46,680 -	 TRIP - INFO	 - Bank account with 513569 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:08:46,680 -	 TRIP - ERROR	 - NationalCodeError: you should enter your national code as a number
+2022-08-07 14:08:46,680 -	 TRIP - ERROR	 - NationalCodeError: your national code must be 10 digits
+2022-08-07 14:08:46,680 -	 TRIP - INFO	 - Bank account with 279381 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:08:46,692 -	 TRIP - INFO	 - Bank account with 661201 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:08:46,692 -	 TRIP - INFO	 - Bank account with 819667 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:08:46,692 -	 TRIP - INFO	 - Bank account with 31230 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:08:46,692 -	 TRIP - ERROR	 - WithDrawError: money must be int or float number
+2022-08-07 14:08:46,692 -	 TRIP - ERROR	 - WithDrawError: minimum money to withdraw is 10
+2022-08-07 14:08:46,692 -	 TRIP - ERROR	 - WithDrawError: you don't have enough money
+2022-08-07 14:08:46,692 -	 TRIP - INFO	 - 1000 Withdraw from 819667 account your current balance: 9000
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:08:46,696 -	 TRIP - ERROR	 - ChargeError: charge can't be negative
+2022-08-07 14:08:46,696 -	 TRIP - ERROR	 - ChargeError: charge must an int number
+2022-08-07 14:08:46,696 -	 TRIP - ERROR	 - ChargeError: charge can't be negative
+2022-08-07 14:08:46,696 -	 TRIP - ERROR	 - ChargeError: charge must an int number
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - credit card's charge is 2000
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - credit card has charged 1000
+2022-08-07 14:08:46,696 -	 TRIP - ERROR	 - ChargeError: you should enter a float or an int number
+2022-08-07 14:08:46,696 -	 TRIP - ERROR	 - ChargeError: minimum price for charging your card is 10
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:08:46,696 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:08:46,696 -	 TRIP - ERROR	 - DateError: your card has expired
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:08:46,707 -	 TRIP - ERROR	 - AttributeError:expiration_date attribute doesn't exist
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:08:46,707 -	 TRIP - ERROR	 - TypeError: name of the card must be a string
+2022-08-07 14:08:46,707 -	 TRIP - ERROR	 - CardError: Invalid card. card only can be one of ('single_trip', 'credit', 'term')
+2022-08-07 14:08:46,707 -	 TRIP - ERROR	 - CardError: Invalid card. card only can be one of ('single_trip', 'credit', 'term')
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:08:46,707 -	 TRIP - ERROR	 - ChargeError: this card has been used before
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - term card's charge is 310
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - you paid 10 for the trip, by term card
+2022-08-07 14:08:46,707 -	 TRIP - ERROR	 - ChargeError: you don't have enough charge to pay cost of the trip, sorry
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - credit card's charge is 990
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - you paid 10 for the trip, by credit card
+2022-08-07 14:08:46,707 -	 TRIP - ERROR	 - ChargeError: you don't have enough charge to pay cost of the trip, sorry
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - Bank account with 884223 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:46,707 -	 TRIP - INFO	 - User Mehdi mirzaie with 848 and bank account: Bank account with 884223 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - 10 Withdraw from 884223 account your current balance: 99990
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - 10 Withdraw from 884223 account your current balance: 99980
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:08:46,716 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 848 payed the cost of the origin: tehran|destination: kermanshah trip with single_trip card
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - origin: tehran|destination: kermanshah trip has done
+2022-08-07 14:08:48,717 -	 TRIP - ERROR	 - TripError: This trip has done before, you can't do take that again
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - Bank account with 282660 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - User Mehdi mirzaie with 205 and bank account: Bank account with 282660 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - 10 Withdraw from 282660 account your current balance: 99990
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - 10 Withdraw from 282660 account your current balance: 99980
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:08:48,717 -	 TRIP - ERROR	 - CostError: Cost of the trip must be an int or a float value
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:08:48,717 -	 TRIP - ERROR	 - CostError: Cost of the trip must be greater than zero
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - Bank account with 353686 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - User Mehdi mirzaie with 526 and bank account: Bank account with 353686 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - 10 Withdraw from 353686 account your current balance: 99990
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - 10 Withdraw from 353686 account your current balance: 99980
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:08:48,717 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 526 payed the cost of the origin: kermanshah|destination: tehran trip with single_trip card
+2022-08-07 14:08:50,732 -	 TRIP - INFO	 - origin: kermanshah|destination: tehran trip has done
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - Bank account with 606293 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - User Mehdi mirzaie with 665 and bank account: Bank account with 606293 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - 10 Withdraw from 606293 account your current balance: 99990
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - 10 Withdraw from 606293 account your current balance: 99980
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:08:50,737 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 665 payed the cost of the origin: kermanshah|destination: rasht trip with single_trip card
+2022-08-07 14:08:52,740 -	 TRIP - INFO	 - origin: kermanshah|destination: rasht trip has done
+2022-08-07 14:08:52,740 -	 TRIP - ERROR	 - CardError: You don't have such card
+2022-08-07 14:08:52,740 -	 TRIP - INFO	 - Bank account with 308568 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - User Mehdi mirzaie with 205 and bank account: Bank account with 308568 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:08:52,743 -	 TRIP - ERROR	 - CardError: You can't buy card because it's Invalid
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - 10 Withdraw from 308568 account your current balance: 99990
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - 10 Withdraw from 308568 account your current balance: 99980
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - 10 Withdraw from 308568 account your current balance: 99970
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - term card's charge is 10
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - term card added to Mehdi mirzaie' wallet
+2022-08-07 14:08:52,743 -	 TRIP - INFO	 - Bank account with 152851 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:52,746 -	 TRIP - INFO	 - User Mehdi mirzaie with 32 and bank account: Bank account with 152851 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:52,746 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:08:52,757 -	 TRIP - INFO	 - Bank account with 845914 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:52,757 -	 TRIP - INFO	 - User Mehdi mirzaie with 56 and bank account: Bank account with 845914 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:52,757 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:08:52,757 -	 TRIP - INFO	 - Bank account with 722858 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:52,757 -	 TRIP - INFO	 - User Mehdi mirzaie with 872 and bank account: Bank account with 722858 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:08:52,757 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:08:52,757 -	 TRIP - ERROR	 - LoginError: ID code is an int number
+2022-08-07 14:08:52,757 -	 TRIP - ERROR	 - LoginError: Wrong ID
+2022-08-07 14:14:25,857 -	 TRIP - INFO	 - Bank account with 862613 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:14:25,860 -	 TRIP - INFO	 - Bank account with 633053 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:14:25,860 -	 TRIP - ERROR	 - AgeError: your age must be a number
+2022-08-07 14:14:25,861 -	 TRIP - ERROR	 - AgeError: your age can't be zero or negative
+2022-08-07 14:14:25,862 -	 TRIP - INFO	 - Bank account with 172638 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:14:25,862 -	 TRIP - INFO	 - Bank account with 806482 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:14:25,863 -	 TRIP - ERROR	 - BalanceError: balance must be int or float
+2022-08-07 14:14:25,863 -	 TRIP - ERROR	 - BalanceError: minimum balance is 100
+2022-08-07 14:14:25,864 -	 TRIP - INFO	 - Bank account with 210333 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:14:25,864 -	 TRIP - INFO	 - Bank account with 442230 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:14:25,875 -	 TRIP - INFO	 - Bank account with 368680 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:14:25,876 -	 TRIP - INFO	 - Bank account with 165635 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:14:25,876 -	 TRIP - ERROR	 - DepositError: money must be int or float number
+2022-08-07 14:14:25,876 -	 TRIP - ERROR	 - DepositError: minimum money to deposit is 100
+2022-08-07 14:14:25,876 -	 TRIP - INFO	 - 1000 deposited to 368680 account with balance: 11000
+2022-08-07 14:14:25,877 -	 TRIP - INFO	 - Bank account with 758331 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:14:25,878 -	 TRIP - INFO	 - Bank account with 348571 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:14:25,878 -	 TRIP - ERROR	 - FullNameError: your name must be string of characters
+2022-08-07 14:14:25,879 -	 TRIP - ERROR	 - FullNameError: name must be at least 3 characters
+2022-08-07 14:14:25,879 -	 TRIP - ERROR	 - FullNameError: name must be alphabetic
+2022-08-07 14:14:25,880 -	 TRIP - INFO	 - Bank account with 495536 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:14:25,880 -	 TRIP - INFO	 - Bank account with 150414 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:14:25,890 -	 TRIP - INFO	 - Bank account with 430521 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:14:25,891 -	 TRIP - INFO	 - Bank account with 954088 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:14:25,892 -	 TRIP - ERROR	 - LoginError: Account number is an int number
+2022-08-07 14:14:25,892 -	 TRIP - ERROR	 - LoginError: Account number is an int number
+2022-08-07 14:14:25,892 -	 TRIP - ERROR	 - LoginError: Wrong Account Number
+2022-08-07 14:14:25,894 -	 TRIP - INFO	 - Bank account with 673497 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:14:25,895 -	 TRIP - INFO	 - Bank account with 820005 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:14:25,895 -	 TRIP - ERROR	 - NationalCodeError: you should enter your national code as a number
+2022-08-07 14:14:25,896 -	 TRIP - ERROR	 - NationalCodeError: your national code must be 10 digits
+2022-08-07 14:14:25,897 -	 TRIP - INFO	 - Bank account with 420288 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:14:25,898 -	 TRIP - INFO	 - Bank account with 114366 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:14:25,907 -	 TRIP - INFO	 - Bank account with 295478 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:14:25,907 -	 TRIP - INFO	 - Bank account with 177728 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:14:25,908 -	 TRIP - ERROR	 - WithDrawError: money must be int or float number
+2022-08-07 14:14:25,908 -	 TRIP - ERROR	 - WithDrawError: minimum money to withdraw is 10
+2022-08-07 14:14:25,908 -	 TRIP - ERROR	 - WithDrawError: you don't have enough money
+2022-08-07 14:14:25,908 -	 TRIP - INFO	 - 1000 Withdraw from 295478 account your current balance: 9000
+2022-08-07 14:14:25,909 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:25,909 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:25,909 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:14:25,909 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:25,909 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:14:25,910 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:14:25,910 -	 TRIP - ERROR	 - ChargeError: charge can't be negative
+2022-08-07 14:14:25,910 -	 TRIP - ERROR	 - ChargeError: charge must an int number
+2022-08-07 14:14:25,910 -	 TRIP - ERROR	 - ChargeError: charge can't be negative
+2022-08-07 14:14:25,910 -	 TRIP - ERROR	 - ChargeError: charge must an int number
+2022-08-07 14:14:25,911 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:25,911 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:25,911 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:14:25,911 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:25,911 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:14:25,911 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:14:25,911 -	 TRIP - INFO	 - credit card's charge is 2000
+2022-08-07 14:14:25,911 -	 TRIP - INFO	 - credit card has charged 1000
+2022-08-07 14:14:25,911 -	 TRIP - ERROR	 - ChargeError: you should enter a float or an int number
+2022-08-07 14:14:25,911 -	 TRIP - ERROR	 - ChargeError: minimum price for charging your card is 10
+2022-08-07 14:14:25,912 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:25,912 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:25,912 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:14:25,912 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:25,912 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:14:25,912 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:14:25,912 -	 TRIP - ERROR	 - DateError: your card has expired
+2022-08-07 14:14:25,913 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:25,913 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:25,913 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:14:25,913 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:25,913 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:14:25,913 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:14:25,913 -	 TRIP - ERROR	 - AttributeError:expiration_date attribute doesn't exist
+2022-08-07 14:14:25,914 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:25,914 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:25,914 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:14:25,914 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:25,914 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:14:25,914 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:14:25,922 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:25,922 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:25,922 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:14:25,922 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:25,923 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:14:25,923 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:14:25,923 -	 TRIP - ERROR	 - TypeError: name of the card must be a string
+2022-08-07 14:14:25,923 -	 TRIP - ERROR	 - CardError: Invalid card. card only can be one of ('single_trip', 'credit', 'term')
+2022-08-07 14:14:25,923 -	 TRIP - ERROR	 - CardError: Invalid card. card only can be one of ('single_trip', 'credit', 'term')
+2022-08-07 14:14:25,924 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:25,924 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:25,924 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:14:25,924 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:25,924 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:14:25,924 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:14:25,924 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:14:25,924 -	 TRIP - ERROR	 - ChargeError: this card has been used before
+2022-08-07 14:14:25,924 -	 TRIP - INFO	 - term card's charge is 310
+2022-08-07 14:14:25,925 -	 TRIP - INFO	 - you paid 10 for the trip, by term card
+2022-08-07 14:14:25,925 -	 TRIP - ERROR	 - ChargeError: you don't have enough charge to pay cost of the trip, sorry
+2022-08-07 14:14:25,925 -	 TRIP - INFO	 - credit card's charge is 990
+2022-08-07 14:14:25,925 -	 TRIP - INFO	 - you paid 10 for the trip, by credit card
+2022-08-07 14:14:25,925 -	 TRIP - ERROR	 - ChargeError: you don't have enough charge to pay cost of the trip, sorry
+2022-08-07 14:14:25,927 -	 TRIP - INFO	 - Bank account with 615912 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:25,928 -	 TRIP - INFO	 - User Mehdi mirzaie with 59 and bank account: Bank account with 615912 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - 10 Withdraw from 615912 account your current balance: 99990
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - 10 Withdraw from 615912 account your current balance: 99980
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:14:25,929 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 59 payed the cost of the origin: tehran|destination: kermanshah trip with single_trip card
+2022-08-07 14:14:27,934 -	 TRIP - INFO	 - origin: tehran|destination: kermanshah trip has done
+2022-08-07 14:14:27,934 -	 TRIP - ERROR	 - TripError: This trip has done before, you can't do take that again
+2022-08-07 14:14:27,939 -	 TRIP - INFO	 - Bank account with 783409 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:27,940 -	 TRIP - INFO	 - User Mehdi mirzaie with 25 and bank account: Bank account with 783409 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:27,942 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:14:27,942 -	 TRIP - INFO	 - 10 Withdraw from 783409 account your current balance: 99990
+2022-08-07 14:14:27,943 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:27,943 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:27,943 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:14:27,943 -	 TRIP - INFO	 - 10 Withdraw from 783409 account your current balance: 99980
+2022-08-07 14:14:27,944 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:14:27,944 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:27,944 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:14:27,945 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:14:27,945 -	 TRIP - ERROR	 - CostError: Cost of the trip must be an int or a float value
+2022-08-07 14:14:27,946 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:14:27,946 -	 TRIP - ERROR	 - CostError: Cost of the trip must be greater than zero
+2022-08-07 14:14:27,951 -	 TRIP - INFO	 - Bank account with 657153 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:27,952 -	 TRIP - INFO	 - User Mehdi mirzaie with 998 and bank account: Bank account with 657153 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:27,953 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:14:27,953 -	 TRIP - INFO	 - 10 Withdraw from 657153 account your current balance: 99990
+2022-08-07 14:14:27,953 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:27,953 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:27,953 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:14:27,953 -	 TRIP - INFO	 - 10 Withdraw from 657153 account your current balance: 99980
+2022-08-07 14:14:27,954 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:14:27,954 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:27,954 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:14:27,954 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:14:27,954 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:14:27,954 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 998 payed the cost of the origin: kermanshah|destination: tehran trip with single_trip card
+2022-08-07 14:14:29,959 -	 TRIP - INFO	 - origin: kermanshah|destination: tehran trip has done
+2022-08-07 14:14:29,963 -	 TRIP - INFO	 - Bank account with 539831 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:29,965 -	 TRIP - INFO	 - User Mehdi mirzaie with 106 and bank account: Bank account with 539831 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:29,966 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:14:29,967 -	 TRIP - INFO	 - 10 Withdraw from 539831 account your current balance: 99990
+2022-08-07 14:14:29,967 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:29,967 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:29,968 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:14:29,968 -	 TRIP - INFO	 - 10 Withdraw from 539831 account your current balance: 99980
+2022-08-07 14:14:29,968 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:14:29,969 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:29,969 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:14:29,969 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:14:29,970 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:14:29,970 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 106 payed the cost of the origin: kermanshah|destination: rasht trip with single_trip card
+2022-08-07 14:14:31,976 -	 TRIP - INFO	 - origin: kermanshah|destination: rasht trip has done
+2022-08-07 14:14:31,976 -	 TRIP - ERROR	 - CardError: You don't have such card
+2022-08-07 14:14:31,981 -	 TRIP - INFO	 - Bank account with 14813 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:31,982 -	 TRIP - INFO	 - User Mehdi mirzaie with 284 and bank account: Bank account with 14813 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:31,983 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:14:31,983 -	 TRIP - ERROR	 - CardError: You can't buy card because it's Invalid
+2022-08-07 14:14:31,984 -	 TRIP - INFO	 - 10 Withdraw from 14813 account your current balance: 99990
+2022-08-07 14:14:31,984 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:14:31,984 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:14:31,984 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:14:31,984 -	 TRIP - INFO	 - 10 Withdraw from 14813 account your current balance: 99980
+2022-08-07 14:14:31,985 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:14:31,985 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:14:31,985 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:14:31,985 -	 TRIP - INFO	 - 10 Withdraw from 14813 account your current balance: 99970
+2022-08-07 14:14:31,986 -	 TRIP - INFO	 - term card's charge is 10
+2022-08-07 14:14:31,986 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:14:31,986 -	 TRIP - INFO	 - term card added to Mehdi mirzaie' wallet
+2022-08-07 14:14:31,989 -	 TRIP - INFO	 - Bank account with 160464 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:31,989 -	 TRIP - INFO	 - User Mehdi mirzaie with 74 and bank account: Bank account with 160464 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:31,990 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:14:31,993 -	 TRIP - INFO	 - Bank account with 233007 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:31,994 -	 TRIP - INFO	 - User Mehdi mirzaie with 403 and bank account: Bank account with 233007 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:31,994 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:14:31,997 -	 TRIP - INFO	 - Bank account with 58741 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:31,998 -	 TRIP - INFO	 - User Mehdi mirzaie with 53 and bank account: Bank account with 58741 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:14:31,998 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:14:31,999 -	 TRIP - ERROR	 - LoginError: ID code is an int number
+2022-08-07 14:14:31,999 -	 TRIP - ERROR	 - LoginError: Wrong ID
+2022-08-07 14:21:33,858 -	 TRIP - INFO	 - Bank account with 8022 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:21:33,861 -	 TRIP - INFO	 - Bank account with 2549 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:21:33,861 -	 TRIP - ERROR	 - AgeError: your age must be a number
+2022-08-07 14:21:33,861 -	 TRIP - ERROR	 - AgeError: your age can't be zero or negative
+2022-08-07 14:21:33,862 -	 TRIP - INFO	 - Bank account with 87298 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:21:33,863 -	 TRIP - INFO	 - Bank account with 627010 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:21:33,863 -	 TRIP - ERROR	 - BalanceError: balance must be int or float
+2022-08-07 14:21:33,864 -	 TRIP - ERROR	 - BalanceError: minimum balance is 100
+2022-08-07 14:21:33,865 -	 TRIP - INFO	 - Bank account with 143142 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:21:33,865 -	 TRIP - INFO	 - Bank account with 596596 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:21:33,866 -	 TRIP - INFO	 - Bank account with 960446 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:21:33,867 -	 TRIP - INFO	 - Bank account with 404514 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:21:33,867 -	 TRIP - ERROR	 - DepositError: money must be int or float number
+2022-08-07 14:21:33,867 -	 TRIP - ERROR	 - DepositError: minimum money to deposit is 100
+2022-08-07 14:21:33,867 -	 TRIP - INFO	 - 1000 deposited to 960446 account with balance: 11000
+2022-08-07 14:21:33,868 -	 TRIP - INFO	 - Bank account with 847282 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:21:33,869 -	 TRIP - INFO	 - Bank account with 96293 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:21:33,878 -	 TRIP - ERROR	 - FullNameError: your name must be string of characters
+2022-08-07 14:21:33,878 -	 TRIP - ERROR	 - FullNameError: name must be at least 3 characters
+2022-08-07 14:21:33,879 -	 TRIP - ERROR	 - FullNameError: name must be alphabetic
+2022-08-07 14:21:33,880 -	 TRIP - INFO	 - Bank account with 293909 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:21:33,881 -	 TRIP - INFO	 - Bank account with 268365 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:21:33,884 -	 TRIP - INFO	 - Bank account with 891040 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:21:33,884 -	 TRIP - INFO	 - Bank account with 823679 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:21:33,884 -	 TRIP - ERROR	 - LoginError: Account number is an int number
+2022-08-07 14:21:33,885 -	 TRIP - ERROR	 - LoginError: Account number is an int number
+2022-08-07 14:21:33,885 -	 TRIP - ERROR	 - LoginError: Wrong Account Number
+2022-08-07 14:21:33,885 -	 TRIP - INFO	 - Bank account with 692079 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:21:33,886 -	 TRIP - INFO	 - Bank account with 2220 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:21:33,894 -	 TRIP - ERROR	 - NationalCodeError: you should enter your national code as a number
+2022-08-07 14:21:33,894 -	 TRIP - ERROR	 - NationalCodeError: your national code must be 10 digits
+2022-08-07 14:21:33,895 -	 TRIP - INFO	 - Bank account with 517672 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:21:33,895 -	 TRIP - INFO	 - Bank account with 243100 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:21:33,897 -	 TRIP - INFO	 - Bank account with 550028 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-07 14:21:33,897 -	 TRIP - INFO	 - Bank account with 253924 account number for Reza amin with 10000 balance has created.
+2022-08-07 14:21:33,897 -	 TRIP - ERROR	 - WithDrawError: money must be int or float number
+2022-08-07 14:21:33,898 -	 TRIP - ERROR	 - WithDrawError: minimum money to withdraw is 10
+2022-08-07 14:21:33,898 -	 TRIP - ERROR	 - WithDrawError: you don't have enough money
+2022-08-07 14:21:33,898 -	 TRIP - INFO	 - 1000 Withdraw from 550028 account your current balance: 9000
+2022-08-07 14:21:33,899 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:33,899 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:33,899 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:21:33,899 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:33,899 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:21:33,899 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:21:33,899 -	 TRIP - ERROR	 - ChargeError: charge can't be negative
+2022-08-07 14:21:33,899 -	 TRIP - ERROR	 - ChargeError: charge must an int number
+2022-08-07 14:21:33,900 -	 TRIP - ERROR	 - ChargeError: charge can't be negative
+2022-08-07 14:21:33,900 -	 TRIP - ERROR	 - ChargeError: charge must an int number
+2022-08-07 14:21:33,900 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:33,900 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:33,900 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:21:33,901 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:33,901 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:21:33,901 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:21:33,901 -	 TRIP - INFO	 - credit card's charge is 2000
+2022-08-07 14:21:33,901 -	 TRIP - INFO	 - credit card has charged 1000
+2022-08-07 14:21:33,901 -	 TRIP - ERROR	 - ChargeError: you should enter a float or an int number
+2022-08-07 14:21:33,901 -	 TRIP - ERROR	 - ChargeError: minimum price for charging your card is 10
+2022-08-07 14:21:33,908 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:33,908 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:33,908 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:21:33,908 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:33,908 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:21:33,909 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:21:33,909 -	 TRIP - ERROR	 - DateError: your card has expired
+2022-08-07 14:21:33,909 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:33,909 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:33,909 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:21:33,909 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:33,910 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:21:33,910 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:21:33,910 -	 TRIP - ERROR	 - AttributeError:expiration_date attribute doesn't exist
+2022-08-07 14:21:33,910 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:33,910 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:33,910 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:21:33,910 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:33,910 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:21:33,911 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:21:33,911 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:33,911 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:33,911 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:21:33,911 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:33,911 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:21:33,911 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:21:33,911 -	 TRIP - ERROR	 - TypeError: name of the card must be a string
+2022-08-07 14:21:33,912 -	 TRIP - ERROR	 - CardError: Invalid card. card only can be one of ('single_trip', 'credit', 'term')
+2022-08-07 14:21:33,912 -	 TRIP - ERROR	 - CardError: Invalid card. card only can be one of ('single_trip', 'credit', 'term')
+2022-08-07 14:21:33,912 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:33,912 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:33,912 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-07 14:21:33,912 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:33,912 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-07 14:21:33,913 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:21:33,913 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:21:33,913 -	 TRIP - ERROR	 - ChargeError: this card has been used before
+2022-08-07 14:21:33,913 -	 TRIP - INFO	 - term card's charge is 310
+2022-08-07 14:21:33,913 -	 TRIP - INFO	 - you paid 10 for the trip, by term card
+2022-08-07 14:21:33,913 -	 TRIP - ERROR	 - ChargeError: you don't have enough charge to pay cost of the trip, sorry
+2022-08-07 14:21:33,913 -	 TRIP - INFO	 - credit card's charge is 990
+2022-08-07 14:21:33,913 -	 TRIP - INFO	 - you paid 10 for the trip, by credit card
+2022-08-07 14:21:33,913 -	 TRIP - ERROR	 - ChargeError: you don't have enough charge to pay cost of the trip, sorry
+2022-08-07 14:21:33,915 -	 TRIP - INFO	 - Bank account with 964023 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:33,915 -	 TRIP - INFO	 - User Mehdi mirzaie with 111 and bank account: Bank account with 964023 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:33,915 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:21:33,916 -	 TRIP - INFO	 - 10 Withdraw from 964023 account your current balance: 99990
+2022-08-07 14:21:33,916 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:33,916 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:33,916 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:21:33,916 -	 TRIP - INFO	 - 10 Withdraw from 964023 account your current balance: 99980
+2022-08-07 14:21:33,916 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:21:33,916 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:33,916 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:21:33,916 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:21:33,916 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:21:33,916 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 111 payed the cost of the origin: tehran|destination: kermanshah trip with single_trip card
+2022-08-07 14:21:35,921 -	 TRIP - INFO	 - origin: tehran|destination: kermanshah trip has done
+2022-08-07 14:21:35,921 -	 TRIP - ERROR	 - TripError: This trip has done before, you can't do take that again
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - Bank account with 11774 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - User Mehdi mirzaie with 212 and bank account: Bank account with 11774 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - 10 Withdraw from 11774 account your current balance: 99990
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - 10 Withdraw from 11774 account your current balance: 99980
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:21:35,925 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:21:35,925 -	 TRIP - ERROR	 - CostError: Cost of the trip must be an int or a float value
+2022-08-07 14:21:35,927 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:21:35,927 -	 TRIP - ERROR	 - CostError: Cost of the trip must be greater than zero
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - Bank account with 524820 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - User Mehdi mirzaie with 722 and bank account: Bank account with 524820 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - 10 Withdraw from 524820 account your current balance: 99990
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - 10 Withdraw from 524820 account your current balance: 99980
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:21:35,928 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 722 payed the cost of the origin: kermanshah|destination: tehran trip with single_trip card
+2022-08-07 14:21:37,930 -	 TRIP - INFO	 - origin: kermanshah|destination: tehran trip has done
+2022-08-07 14:21:37,932 -	 TRIP - INFO	 - Bank account with 807079 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:37,932 -	 TRIP - INFO	 - User Mehdi mirzaie with 408 and bank account: Bank account with 807079 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:37,933 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:21:37,933 -	 TRIP - INFO	 - 10 Withdraw from 807079 account your current balance: 99990
+2022-08-07 14:21:37,933 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:37,933 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:37,933 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:21:37,933 -	 TRIP - INFO	 - 10 Withdraw from 807079 account your current balance: 99980
+2022-08-07 14:21:37,933 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:21:37,933 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:37,933 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:21:37,933 -	 TRIP - INFO	 - The Trip registered
+2022-08-07 14:21:37,934 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-07 14:21:37,934 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 408 payed the cost of the origin: kermanshah|destination: rasht trip with single_trip card
+2022-08-07 14:21:39,945 -	 TRIP - INFO	 - origin: kermanshah|destination: rasht trip has done
+2022-08-07 14:21:39,945 -	 TRIP - ERROR	 - CardError: You don't have such card
+2022-08-07 14:21:39,948 -	 TRIP - INFO	 - Bank account with 965556 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:39,948 -	 TRIP - INFO	 - User Mehdi mirzaie with 866 and bank account: Bank account with 965556 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:39,949 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:21:39,949 -	 TRIP - ERROR	 - CardError: You can't buy card because it's Invalid
+2022-08-07 14:21:39,949 -	 TRIP - INFO	 - 10 Withdraw from 965556 account your current balance: 99990
+2022-08-07 14:21:39,949 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-07 14:21:39,949 -	 TRIP - INFO	 - single_trip card has created
+2022-08-07 14:21:39,949 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-07 14:21:39,949 -	 TRIP - INFO	 - 10 Withdraw from 965556 account your current balance: 99980
+2022-08-07 14:21:39,949 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-07 14:21:39,949 -	 TRIP - INFO	 - credit card has created
+2022-08-07 14:21:39,949 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-07 14:21:39,950 -	 TRIP - INFO	 - 10 Withdraw from 965556 account your current balance: 99970
+2022-08-07 14:21:39,950 -	 TRIP - INFO	 - term card's charge is 10
+2022-08-07 14:21:39,950 -	 TRIP - INFO	 - term card has created
+2022-08-07 14:21:39,950 -	 TRIP - INFO	 - term card added to Mehdi mirzaie' wallet
+2022-08-07 14:21:39,951 -	 TRIP - INFO	 - Bank account with 922688 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:39,951 -	 TRIP - INFO	 - User Mehdi mirzaie with 635 and bank account: Bank account with 922688 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:39,952 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:21:39,962 -	 TRIP - INFO	 - Bank account with 843433 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:39,962 -	 TRIP - INFO	 - User Mehdi mirzaie with 233 and bank account: Bank account with 843433 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:39,963 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:21:39,965 -	 TRIP - INFO	 - Bank account with 878806 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:39,966 -	 TRIP - INFO	 - User Mehdi mirzaie with 605 and bank account: Bank account with 878806 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-07 14:21:39,966 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-07 14:21:39,966 -	 TRIP - ERROR	 - LoginError: ID code is an int number
+2022-08-07 14:21:39,966 -	 TRIP - ERROR	 - LoginError: Wrong ID
+2022-08-09 21:01:30,744 -	 TRIP - INFO	 - Bank account with 201957 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-09 21:01:30,747 -	 TRIP - INFO	 - Bank account with 363933 account number for Reza amin with 10000 balance has created.
+2022-08-09 21:01:30,747 -	 TRIP - ERROR	 - AgeError: your age must be a number
+2022-08-09 21:01:30,748 -	 TRIP - ERROR	 - AgeError: your age can't be zero or negative
+2022-08-09 21:01:30,749 -	 TRIP - INFO	 - Bank account with 62002 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-09 21:01:30,751 -	 TRIP - INFO	 - Bank account with 842137 account number for Reza amin with 10000 balance has created.
+2022-08-09 21:01:30,752 -	 TRIP - ERROR	 - BalanceError: balance must be int or float
+2022-08-09 21:01:30,753 -	 TRIP - ERROR	 - BalanceError: minimum balance is 100
+2022-08-09 21:01:30,759 -	 TRIP - INFO	 - Bank account with 138249 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-09 21:01:30,761 -	 TRIP - INFO	 - Bank account with 983309 account number for Reza amin with 10000 balance has created.
+2022-08-09 21:01:30,763 -	 TRIP - INFO	 - Bank account with 794692 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-09 21:01:30,764 -	 TRIP - INFO	 - Bank account with 557384 account number for Reza amin with 10000 balance has created.
+2022-08-09 21:01:30,765 -	 TRIP - ERROR	 - DepositError: money must be int or float number
+2022-08-09 21:01:30,765 -	 TRIP - ERROR	 - DepositError: minimum money to deposit is 100
+2022-08-09 21:01:30,765 -	 TRIP - INFO	 - 1000 deposited to 794692 account with balance: 11000
+2022-08-09 21:01:30,767 -	 TRIP - INFO	 - Bank account with 638133 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-09 21:01:30,769 -	 TRIP - INFO	 - Bank account with 735972 account number for Reza amin with 10000 balance has created.
+2022-08-09 21:01:30,769 -	 TRIP - ERROR	 - FullNameError: your name must be string of characters
+2022-08-09 21:01:30,770 -	 TRIP - ERROR	 - FullNameError: name must be at least 3 characters
+2022-08-09 21:01:30,771 -	 TRIP - ERROR	 - FullNameError: name must be alphabetic
+2022-08-09 21:01:30,773 -	 TRIP - INFO	 - Bank account with 216146 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-09 21:01:30,775 -	 TRIP - INFO	 - Bank account with 92585 account number for Reza amin with 10000 balance has created.
+2022-08-09 21:01:30,778 -	 TRIP - INFO	 - Bank account with 27712 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-09 21:01:30,779 -	 TRIP - INFO	 - Bank account with 860486 account number for Reza amin with 10000 balance has created.
+2022-08-09 21:01:30,779 -	 TRIP - ERROR	 - LoginError: Account number is an int number
+2022-08-09 21:01:30,779 -	 TRIP - ERROR	 - LoginError: Account number is an int number
+2022-08-09 21:01:30,779 -	 TRIP - ERROR	 - LoginError: Wrong Account Number
+2022-08-09 21:01:30,781 -	 TRIP - INFO	 - Bank account with 690168 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-09 21:01:30,782 -	 TRIP - INFO	 - Bank account with 376459 account number for Reza amin with 10000 balance has created.
+2022-08-09 21:01:30,783 -	 TRIP - ERROR	 - NationalCodeError: you should enter your national code as a number
+2022-08-09 21:01:30,784 -	 TRIP - ERROR	 - NationalCodeError: your national code must be 10 digits
+2022-08-09 21:01:30,787 -	 TRIP - INFO	 - Bank account with 651527 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-09 21:01:30,790 -	 TRIP - INFO	 - Bank account with 312010 account number for Reza amin with 10000 balance has created.
+2022-08-09 21:01:30,793 -	 TRIP - INFO	 - Bank account with 430226 account number for Mehdi mirzaie with 10000 balance has created.
+2022-08-09 21:01:30,794 -	 TRIP - INFO	 - Bank account with 795345 account number for Reza amin with 10000 balance has created.
+2022-08-09 21:01:30,795 -	 TRIP - ERROR	 - WithDrawError: money must be int or float number
+2022-08-09 21:01:30,795 -	 TRIP - ERROR	 - WithDrawError: minimum money to withdraw is 10
+2022-08-09 21:01:30,795 -	 TRIP - ERROR	 - WithDrawError: you don't have enough money
+2022-08-09 21:01:30,795 -	 TRIP - INFO	 - 1000 Withdraw from 430226 account your current balance: 9000
+2022-08-09 21:01:30,797 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:30,797 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:30,797 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-09 21:01:30,797 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:30,797 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-09 21:01:30,797 -	 TRIP - INFO	 - term card has created
+2022-08-09 21:01:30,797 -	 TRIP - ERROR	 - ChargeError: charge can't be negative
+2022-08-09 21:01:30,798 -	 TRIP - ERROR	 - ChargeError: charge must an int number
+2022-08-09 21:01:30,798 -	 TRIP - ERROR	 - ChargeError: charge can't be negative
+2022-08-09 21:01:30,798 -	 TRIP - ERROR	 - ChargeError: charge must an int number
+2022-08-09 21:01:30,798 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:30,799 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:30,799 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-09 21:01:30,799 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:30,799 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-09 21:01:30,799 -	 TRIP - INFO	 - term card has created
+2022-08-09 21:01:30,799 -	 TRIP - INFO	 - credit card's charge is 2000
+2022-08-09 21:01:30,799 -	 TRIP - INFO	 - credit card has charged 1000
+2022-08-09 21:01:30,799 -	 TRIP - ERROR	 - ChargeError: you should enter a float or an int number
+2022-08-09 21:01:30,799 -	 TRIP - ERROR	 - ChargeError: minimum price for charging your card is 10
+2022-08-09 21:01:30,800 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:30,800 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:30,800 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-09 21:01:30,800 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:30,800 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-09 21:01:30,800 -	 TRIP - INFO	 - term card has created
+2022-08-09 21:01:30,801 -	 TRIP - ERROR	 - DateError: your card has expired
+2022-08-09 21:01:30,801 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:30,801 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:30,802 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-09 21:01:30,802 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:30,802 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-09 21:01:30,802 -	 TRIP - INFO	 - term card has created
+2022-08-09 21:01:30,802 -	 TRIP - ERROR	 - AttributeError:expiration_date attribute doesn't exist
+2022-08-09 21:01:30,803 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:30,803 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:30,804 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-09 21:01:30,804 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:30,804 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-09 21:01:30,804 -	 TRIP - INFO	 - term card has created
+2022-08-09 21:01:30,805 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:30,805 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:30,805 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-09 21:01:30,805 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:30,805 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-09 21:01:30,805 -	 TRIP - INFO	 - term card has created
+2022-08-09 21:01:30,805 -	 TRIP - ERROR	 - TypeError: name of the card must be a string
+2022-08-09 21:01:30,806 -	 TRIP - ERROR	 - CardError: Invalid card. card only can be one of ('single_trip', 'credit', 'term')
+2022-08-09 21:01:30,806 -	 TRIP - ERROR	 - CardError: Invalid card. card only can be one of ('single_trip', 'credit', 'term')
+2022-08-09 21:01:30,807 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:30,807 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:30,807 -	 TRIP - INFO	 - credit card's charge is 1000
+2022-08-09 21:01:30,807 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:30,807 -	 TRIP - INFO	 - term card's charge is 320
+2022-08-09 21:01:30,807 -	 TRIP - INFO	 - term card has created
+2022-08-09 21:01:30,807 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-09 21:01:30,807 -	 TRIP - ERROR	 - ChargeError: this card has been used before
+2022-08-09 21:01:30,807 -	 TRIP - INFO	 - term card's charge is 310
+2022-08-09 21:01:30,808 -	 TRIP - INFO	 - you paid 10 for the trip, by term card
+2022-08-09 21:01:30,808 -	 TRIP - ERROR	 - ChargeError: you don't have enough charge to pay cost of the trip, sorry
+2022-08-09 21:01:30,808 -	 TRIP - INFO	 - credit card's charge is 990
+2022-08-09 21:01:30,808 -	 TRIP - INFO	 - you paid 10 for the trip, by credit card
+2022-08-09 21:01:30,808 -	 TRIP - ERROR	 - ChargeError: you don't have enough charge to pay cost of the trip, sorry
+2022-08-09 21:01:30,811 -	 TRIP - INFO	 - Bank account with 102121 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:30,811 -	 TRIP - INFO	 - User Mehdi mirzaie with 253 and bank account: Bank account with 102121 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:30,812 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-09 21:01:30,812 -	 TRIP - INFO	 - 10 Withdraw from 102121 account your current balance: 99990
+2022-08-09 21:01:30,812 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:30,812 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:30,812 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-09 21:01:30,812 -	 TRIP - INFO	 - 10 Withdraw from 102121 account your current balance: 99980
+2022-08-09 21:01:30,812 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-09 21:01:30,812 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:30,813 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-09 21:01:30,813 -	 TRIP - INFO	 - The Trip registered
+2022-08-09 21:01:30,813 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-09 21:01:30,813 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 253 payed the cost of the origin: tehran|destination: kermanshah trip with single_trip card
+2022-08-09 21:01:32,826 -	 TRIP - INFO	 - origin: tehran|destination: kermanshah trip has done
+2022-08-09 21:01:32,827 -	 TRIP - ERROR	 - TripError: This trip has done before, you can't do take that again
+2022-08-09 21:01:32,829 -	 TRIP - INFO	 - Bank account with 198755 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:32,829 -	 TRIP - INFO	 - User Mehdi mirzaie with 409 and bank account: Bank account with 198755 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:32,830 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-09 21:01:32,830 -	 TRIP - INFO	 - 10 Withdraw from 198755 account your current balance: 99990
+2022-08-09 21:01:32,830 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:32,831 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:32,831 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-09 21:01:32,831 -	 TRIP - INFO	 - 10 Withdraw from 198755 account your current balance: 99980
+2022-08-09 21:01:32,831 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-09 21:01:32,831 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:32,831 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-09 21:01:32,831 -	 TRIP - INFO	 - The Trip registered
+2022-08-09 21:01:32,832 -	 TRIP - ERROR	 - CostError: Cost of the trip must be an int or a float value
+2022-08-09 21:01:32,832 -	 TRIP - INFO	 - The Trip registered
+2022-08-09 21:01:32,832 -	 TRIP - ERROR	 - CostError: Cost of the trip must be greater than zero
+2022-08-09 21:01:32,834 -	 TRIP - INFO	 - Bank account with 834351 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:32,835 -	 TRIP - INFO	 - User Mehdi mirzaie with 623 and bank account: Bank account with 834351 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:32,835 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-09 21:01:32,836 -	 TRIP - INFO	 - 10 Withdraw from 834351 account your current balance: 99990
+2022-08-09 21:01:32,836 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:32,836 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:32,836 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-09 21:01:32,836 -	 TRIP - INFO	 - 10 Withdraw from 834351 account your current balance: 99980
+2022-08-09 21:01:32,837 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-09 21:01:32,837 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:32,837 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-09 21:01:32,837 -	 TRIP - INFO	 - The Trip registered
+2022-08-09 21:01:32,837 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-09 21:01:32,837 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 623 payed the cost of the origin: kermanshah|destination: tehran trip with single_trip card
+2022-08-09 21:01:34,846 -	 TRIP - INFO	 - origin: kermanshah|destination: tehran trip has done
+2022-08-09 21:01:34,847 -	 TRIP - INFO	 - Bank account with 517604 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:34,847 -	 TRIP - INFO	 - User Mehdi mirzaie with 948 and bank account: Bank account with 517604 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:34,848 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-09 21:01:34,848 -	 TRIP - INFO	 - 10 Withdraw from 517604 account your current balance: 99990
+2022-08-09 21:01:34,848 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:34,848 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:34,848 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-09 21:01:34,848 -	 TRIP - INFO	 - 10 Withdraw from 517604 account your current balance: 99980
+2022-08-09 21:01:34,848 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-09 21:01:34,848 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:34,848 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-09 21:01:34,848 -	 TRIP - INFO	 - The Trip registered
+2022-08-09 21:01:34,848 -	 TRIP - INFO	 - you paid 10 for the trip, by single_trip card
+2022-08-09 21:01:34,849 -	 TRIP - INFO	 - user: Mehdi mirzaie with id: 948 payed the cost of the origin: kermanshah|destination: rasht trip with single_trip card
+2022-08-09 21:01:36,861 -	 TRIP - INFO	 - origin: kermanshah|destination: rasht trip has done
+2022-08-09 21:01:36,861 -	 TRIP - ERROR	 - CardError: You don't have such card
+2022-08-09 21:01:36,863 -	 TRIP - INFO	 - Bank account with 932145 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:36,863 -	 TRIP - INFO	 - User Mehdi mirzaie with 365 and bank account: Bank account with 932145 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:36,864 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-09 21:01:36,864 -	 TRIP - ERROR	 - CardError: You can't buy card because it's Invalid
+2022-08-09 21:01:36,864 -	 TRIP - INFO	 - 10 Withdraw from 932145 account your current balance: 99990
+2022-08-09 21:01:36,864 -	 TRIP - INFO	 - single_trip card's charge is 10
+2022-08-09 21:01:36,864 -	 TRIP - INFO	 - single_trip card has created
+2022-08-09 21:01:36,864 -	 TRIP - INFO	 - single_trip card added to Mehdi mirzaie' wallet
+2022-08-09 21:01:36,864 -	 TRIP - INFO	 - 10 Withdraw from 932145 account your current balance: 99980
+2022-08-09 21:01:36,864 -	 TRIP - INFO	 - credit card's charge is 10
+2022-08-09 21:01:36,864 -	 TRIP - INFO	 - credit card has created
+2022-08-09 21:01:36,865 -	 TRIP - INFO	 - credit card added to Mehdi mirzaie' wallet
+2022-08-09 21:01:36,865 -	 TRIP - INFO	 - 10 Withdraw from 932145 account your current balance: 99970
+2022-08-09 21:01:36,865 -	 TRIP - INFO	 - term card's charge is 10
+2022-08-09 21:01:36,865 -	 TRIP - INFO	 - term card has created
+2022-08-09 21:01:36,865 -	 TRIP - INFO	 - term card added to Mehdi mirzaie' wallet
+2022-08-09 21:01:36,866 -	 TRIP - INFO	 - Bank account with 778329 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:36,866 -	 TRIP - INFO	 - User Mehdi mirzaie with 674 and bank account: Bank account with 778329 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:36,867 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-09 21:01:36,876 -	 TRIP - INFO	 - Bank account with 903693 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:36,877 -	 TRIP - INFO	 - User Mehdi mirzaie with 206 and bank account: Bank account with 903693 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:36,877 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-09 21:01:36,880 -	 TRIP - INFO	 - Bank account with 897550 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:36,881 -	 TRIP - INFO	 - User Mehdi mirzaie with 554 and bank account: Bank account with 897550 account number for Mehdi mirzaie with 100000 balance has created.
+2022-08-09 21:01:36,881 -	 TRIP - INFO	 - user has pickled into users.pickle
+2022-08-09 21:01:36,882 -	 TRIP - ERROR	 - LoginError: ID code is an int number
+2022-08-09 21:01:36,882 -	 TRIP - ERROR	 - LoginError: Wrong ID
